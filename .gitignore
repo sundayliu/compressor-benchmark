@@ -1,0 +1,11 @@
+*.o
+*.exe
+*.cache
+auto4te.cache
+*.in
+configure
+*.log
+aclocal.m4
+config.h.in
+config.h
+depcomp
