@@ -9,3 +9,9 @@ aclocal.m4
 config.h.in
 config.h
 depcomp
+compile
+Makefile
+stamp-h1
+*.deps
+config.status
+config.h.*
